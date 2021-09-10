@@ -1,2 +1,4 @@
-This is a sample text.
-The quick brown fox jumps over the lazy dog.
+---
+title: "My Title"
+date: 2021-09-10
+---
